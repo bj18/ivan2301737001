@@ -1,0 +1,20 @@
+.content-box{
+    height: 300px;
+    border: 2px;
+    border-style: dashed;
+    border-radius:15%;
+    outline-color: rgb(4, 0, 8);
+}
+
+.row + .row{
+    margin-top: 1rem;
+}
+.white-circle {
+    width: 100px;
+    height: 100px;
+}
+#custom-circle{
+    align-self: flex-start;
+    justify-content: flex-start;
+}
+
